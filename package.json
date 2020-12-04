@@ -1,0 +1,24 @@
+{
+  "name": "Professional-README-Generator",
+  "version": "1.0.0",
+  "description": "When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.  Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Good README Guide as a reminder of everything that a high-quality, professional README should contain.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TreeGee73/Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TreeGee73/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/TreeGee73/Professional-README-Generator#readme"
+}
