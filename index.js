@@ -24,7 +24,7 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: 'Please write a short description of your project'
+        message: 'Please write a short description of your project:'
     },
     {
         type: 'list',
@@ -51,7 +51,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contibutefaq',
+        name: 'contributefaq',
         message: 'What does the user need to know about contributing to the repo?'
     },
 
@@ -77,7 +77,6 @@ function init() {
         // Creates the markdown file based on the answers provided
         writeToFile('README.md', data);
     })
-
 }
 
 // function call to initialize program
