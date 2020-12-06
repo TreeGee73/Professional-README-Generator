@@ -21,7 +21,9 @@ function generateMarkdown(data) {
   ${data.contributefaq}
 
   ## Questions / Contact Details
-  If you have any questions or need to contact me about this app, I can reached either on Github at [${data.github}](https://github.com/${data.github}) or by email at [${data.email}](${data.email}).
+  This app can be found on my Github page at [${data.github}](https://github.com/${data.github}).
+
+  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [${data.email}](${data.email}).
 `;
 }
 
