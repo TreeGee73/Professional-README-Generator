@@ -1,7 +1,7 @@
 # Professional README Generator
   ![License](https://img.shields.io/badge/License-MIT-blue)
 
-  ##Table of Contents
+  ## Table of Contents
   * [Description](#description)
   * [Usage](#usefaq)
   * [Installation](#install)
