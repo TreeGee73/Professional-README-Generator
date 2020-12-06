@@ -59,6 +59,16 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    // Use FS to write the responses to the markdown file.
+    fs.writeFile(fileName, data, (error) =>{
+        // If there is an error will stop the process and report an error.
+        if (error) {
+            console.error(error);
+            return;
+        }
+        // Output a message to indicate the markdown file has been successfully created.
+        console.log(`Your ${data.title} README.md file has been created.`);
+    });
 }
 
 // function to initialize program
