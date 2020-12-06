@@ -1,2 +1,24 @@
-# Professional-README-Generator
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.  Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Good README Guide as a reminder of everything that a high-quality, professional README should contain.
+# Markdown Generator
+  
+  ## Description
+  Create an app to generate a markdown file template
+
+  ## Usage
+  Easy to impliment
+
+  ## Installation
+  npm i
+
+  ## Testing
+  npm test
+
+  ## License
+  MIT
+
+  ## Contributing to This Repo
+  undefined
+
+  ## Questions / Contact Details
+  This app can be found on my Github page at [TreeGee73](https://github.com/TreeGee73).
+
+  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [treegee73@gmail.com](treegee73@gmail.com).
