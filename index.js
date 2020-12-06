@@ -69,9 +69,12 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
+    // Asks the user questions to complete the markedown file
     inquirer.prompt(questions).then((answers) => {
         const data = generateMarkdown(answers);
+        // Displays answers to questions
         console.log(answers);
+        // Creates the markdown file based on the answers provided
         writeToFile('README.md', data);
     })
 
