@@ -1,6 +1,18 @@
 # Professional README Generator
   ![License](https://img.shields.io/badge/License-MIT-blue)
 
+---
+
+## 📚 Educational Project
+
+This project was completed as part of University of Arizona Full-Stack Web Development Bootcamp to demonstrate understanding of specific concepts like JavaScript.<br>
+
+**Status:** Archived - No longer under active development<br>
+**Purpose:** Portfolio demonstration of technical concepts<br>
+**Completed:** November 2020
+
+---
+
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usefaq)
@@ -58,6 +70,4 @@ GIVEN a command-line application that accepts user input:
 
   <a name='questions'></a>
   ## Questions / Contact Details
-  This app can be found on my Github page at [TreeGee73](https://github.com/TreeGee73).
-
-  If you have any questions or need to contact me about this app, I can reached either on Github or by email at [treegee73@gmail.com](treegee73@gmail.com).
+ If you have any questions or need to contact me about this app, visit my GitHub page at [TreeGee73](https://github.com/TreeGee73).
