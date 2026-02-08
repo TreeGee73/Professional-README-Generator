@@ -9,7 +9,7 @@ This project was completed as part of University of Arizona Full-Stack Web Devel
 
 **Status:** Archived - No longer under active development<br>
 **Purpose:** Portfolio demonstration of technical concepts<br>
-**Completed:** November 2020
+**Completed:** December 2020
 
 ---
 
